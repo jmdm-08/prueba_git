@@ -1,3 +1,4 @@
 Para iniciar un repositorio se utiliza git init
 Para adicionar cambios se utiliza el comando git add.
 Para adicionar un repositorio remoto se utiliza el comando git remote
+Para aceptar los cambios se utiliza el comando git commit.
